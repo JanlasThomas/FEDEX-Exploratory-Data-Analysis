@@ -23,6 +23,7 @@ Numerical Variables:
 Weight (Kilograms), Unit Price, Line Item Value, Insurance (USD)
 Temporal Variables:
 PO Sent Date, Scheduled Delivery Date, Actual Delivery Date
+
 4. Technical Approach
 
 The analysis was performed using the Python data science ecosystem:
@@ -33,6 +34,7 @@ Visualization:
 Employed Seaborn and Matplotlib to create insightful visualizations such as box plots, violin plots, density plots, and multivariate scatter plots, including log-scaled analyses for skewed data.
 Statistical Validation:
 Applied correlation analysis and distribution checks to validate key hypotheses and identify potential supply chain bottlenecks.
+
 5. Key Outcomes
 
 This EDA provides actionable insights to support strategic decision-making, including:
